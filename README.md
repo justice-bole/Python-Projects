@@ -2,6 +2,7 @@
  Python applications written in conjunction with various tutorials
 
 Sources:
+
 AutomatingTheBoringStuffScripts - Automate The Boring Stuff With Python 2nd Edition by Al Sweigart
 
 DiveIntoAlgorithms - Dive Into Algorithms by Bradford Tuckfield
