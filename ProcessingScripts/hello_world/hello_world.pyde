@@ -1,0 +1,15 @@
+size(500, 500)
+print('Hello, World!')
+background('#004477')
+stroke('#FFFFFF')
+strokeWeight(3)
+fill('#FF0000') #Hexidecimal Red
+#fill('255, 0, 0) #RGB Red
+#fill('HSB, 360, 100, 100') #HSB Red (Hue, saturation, brightness(value))
+rect(100, 150, 200, 300)
+fill('#FF0000')
+rect(10, 15, 20, 30)
+fill('#FF9900')
+rect(50,100,150,150)
+noFill()
+square(250, 100, 150)
