@@ -1,2 +1,2 @@
-# Python Tutorial Projects
+# Python Projects
  Python applications
